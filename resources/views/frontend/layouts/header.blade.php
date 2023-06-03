@@ -11,11 +11,7 @@
 <div class="body">
 <!--############################            HEADER              ################################-->
 <header class="header">
-    <div class="header__mobilemenu">
-        <span></span>
-        <span></span>
-        <span></span>
-    </div>
+    
     <a href="#" class="header__logobox">
         <img src="{{asset('images/ecommerce.png')}}" alt="" class="header__logobox--logo">
     </a>
