@@ -1,0 +1,9 @@
+@media screen and (max-width:576px){
+    .news-main{
+        display: flex;
+        flex-direction: column;
+        }  
+}
+
+
+
